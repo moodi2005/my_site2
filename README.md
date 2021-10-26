@@ -1,5 +1,5 @@
-> # Personal Website
 <div align="center" width="100%">
+  # Personal Website
   <img src="images/manifest/M-Logo.png" alt="Logo" width="150px" height="150px" style="margin:0 auto;"/>
 </div>
 
