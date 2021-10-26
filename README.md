@@ -1,6 +1,7 @@
 > # Personal Website
-> <img src="images/manifest/M-Logo.png" alt="Logo" width="150px" height="150px" style="margin:0 auto;"/>
-
+<div align="center" width="100%">
+  > <img src="images/manifest/M-Logo.png" alt="Logo" width="150px" height="150px" style="margin:0 auto;"/>
+</div>
 
 Personal website with nodeJs,Lit Element,Webpack,Express technologies
 
